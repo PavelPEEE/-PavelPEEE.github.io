@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.org/bicycle-categories/cannondale_3/</loc>
+    <loc>https://examplesite.org/bicycle-categories/cannondale_3/</loc>
     <lastmod>2020-10-09T20:56:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/bicycle-categories/merida_1/</loc>
+    <loc>https://examplesite.org/bicycle-categories/merida_1/</loc>
     <lastmod>2020-10-09T20:56:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/bicycle-categories/merida_2/</loc>
+    <loc>https://examplesite.org/bicycle-categories/merida_2/</loc>
     <lastmod>2020-10-09T20:56:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/bicycle-categories/</loc>
+    <loc>https://examplesite.org/bicycle-categories/</loc>
     <lastmod>2020-10-08T23:28:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/</loc>
+    <loc>https://examplesite.org/</loc>
     <lastmod>2020-10-08T23:28:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/categories/</loc>
+    <loc>https://examplesite.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/</loc>
+    <loc>https://examplesite.org/tags/</loc>
   </url>
   
 </urlset>
